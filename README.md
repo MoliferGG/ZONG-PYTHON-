@@ -10,6 +10,6 @@ PONG is a well known game and my project ZONG is just a try to imporove upon tha
 
 You are allowed to anything with my code (even redistibute it commercially) 
 
-* If you want to make any bug report feel free to creae a pull request.
+* If you want to make any bug report feel free to create a pull request.
 
 # Thank You
