@@ -12,4 +12,6 @@ You are allowed to anything with my code (even redistibute it commercially)
 
 * If you want to make any bug report feel free to create a pull request.
 
+If you want to play for yourself download the Zong.zip and extract it for windows.
+
 # Thank You
