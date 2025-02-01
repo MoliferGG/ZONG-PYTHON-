@@ -1,14 +1,14 @@
 
 # ZONG
 
-Welcome to my small project in making pong in my own style and favour 
+Welcome to my small project in making pong in my own style.
 
 PONG is a well known game and my project ZONG is just a try to imporove upon that
 
 
 
 
-You are allowed to anything with my code (even redistibute it commercially) 
+You are allowed to do anything with my code (even redistibute it commercially) 
 
 * If you want to make any bug report feel free to create a pull request.
 
